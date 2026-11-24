@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "org.kde.plasma.ipregion",
+    "Name": "IP Region",
+    "Description": "Shows the country code of your public IP (handy with VPN)",
+    "Icon": "globe",
+    "Category": "Network",
+    "Authors": [{ "Name": "oleg" }],
+    "Version": "1.0.0",
+    "License": "GPL-3.0"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
